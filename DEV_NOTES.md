@@ -29,3 +29,7 @@ Personal development log — notes, findings, and ongoing work.
 
 ## 2026-03-30
 - Added healthcheck endpoint stub
+
+## 2026-03-30
+- Resolved deprecation warnings
+- Resolved TODO items from previous session
