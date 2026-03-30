@@ -26,3 +26,6 @@ Personal development log — notes, findings, and ongoing work.
 - Documented config options
 - Reviewed security headers configuration
 - Updated CI cache strategy
+
+## 2026-03-30
+- Added healthcheck endpoint stub
